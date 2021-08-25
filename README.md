@@ -1,2 +1,2 @@
-# BounceOffC21
-Creación de algoritmos para bounce off e isTouching
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
